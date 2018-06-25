@@ -12,7 +12,7 @@
     "Zavery, Amar <amzavery@microsoft.com>",
     "Wang, Yugang <yugangw@microsoft.com>"
   ],
-  "version": "0.9.11-unidesk.3",
+  "version": "0.9.11-unidesk.5",
   "description": "Microsoft Azure Cross Platform Command Line tool",
   "tags": [
     "azure",
@@ -63,7 +63,7 @@
     "azure-gallery": "2.0.0-pre.18",
     "azure-keyvault": "0.10.1",
     "azure-monitoring": "0.10.2",
-    "azure-storage": "github:unidesk/azure-storage-node#hotfix/range-stream-error-handler",
+    "azure-storage": "^2.9.0-preview",
     "caller-id": "0.1.x",
     "colors": "0.x.x",
     "commander": "1.0.4",
