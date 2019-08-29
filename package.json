@@ -45,7 +45,7 @@
     "azure-arm-network": "0.10.6",
     "azure-arm-rediscache": "0.1.0",
     "azure-arm-resource": "0.10.6",
-    "azure-arm-storage": "0.11.0",
+    "azure-arm-storage": "5.2.0",
     "azure-arm-trafficmanager": "0.10.4",
     "azure-arm-website": "0.10.0",
     "azure-asm-compute": "0.11.0",
